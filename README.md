@@ -1,7 +1,6 @@
 # Prodigy_ML_01
 
 ## House Prices Prediction Project
-![house_prices.jpg]
 
 ## Overview:
 This is the repo for my first task at the ML Virtual Internship from [Prodigy InfoTech](https://www.linkedin.com/company/prodigy-infotech/). It's about applying advanced ML techniques to predict house price.
